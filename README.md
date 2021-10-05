@@ -49,7 +49,7 @@ id (str) - customer id
 income (float) - customer's income 
 
 ##### transcript.json
-Event log (306648 events x 4 fields)
+Event log (306534 events x 4 fields)
 
 event (str) - record description (ie transaction, offer received, offer viewed, etc.)
 person (str) - customer id

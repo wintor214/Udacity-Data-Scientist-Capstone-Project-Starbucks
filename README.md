@@ -5,7 +5,7 @@ This is a capstone project for the Udacity Data Scientist Nanodegree Program
 
 This data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). Some users might not receive any offer during certain weeks.
    
-You can find the blog post link here
+You can find the blog post link here [https://medium.com/@winston21491/starbucks-capstone-project-42abe2319acb]
 ## Table Of Contents  
 * Objective
 * Summary

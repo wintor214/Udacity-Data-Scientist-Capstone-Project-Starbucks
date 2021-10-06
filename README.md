@@ -19,11 +19,10 @@ Find the characteristics of customers that lead to the greatest chance of an off
 
 <a name="summary"></a>
 ## Summary 
-*Higher income greatly influences spending amount at starbucks and offer completion.
-*Discounts had the greatest offer completion rate followed by bogo but had the lowest reward rate.
-*Duration of the offer influences offer completion rate
-*Females complete offers more often than males and even though on average females spend much more than males, there is no distinction in offer targeting between male and female by age and income.
-*From this, if we wanted to maximize the chance an offer is completed, it is best to target the highest spenders. That means targeting older females with the largest incomes using discount offers over bogo offers that have long durations (~400 days).     
+* Duration of offer, income of customer and age of customer are the biggest predictors of whether a customer completes an offer. 
+* The customer gender and the distribution method of the offer do not have any predictive power of whether a customer completes an offer.
+
+From this, if we wanted to maximize the chance an offer is completed, it is best to target those with the largest incomes and older ages with offer durations that last a long time.     
 
 <a name="desc"></a>
 ## Files Used

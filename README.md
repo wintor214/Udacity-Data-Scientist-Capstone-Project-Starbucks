@@ -18,7 +18,7 @@ You can find the blog post link here
 Find the characteristics of customers that lead to the greatest chance of an offer being completed.
 
 <a name="summary"></a>
-## Summary 
+## Summary of Results
 * Duration of offer, income of customer and age of customer are the biggest predictors of whether a customer completes an offer. 
 * The customer gender and the distribution method of the offer do not have any predictive power of whether a customer completes an offer.
 
